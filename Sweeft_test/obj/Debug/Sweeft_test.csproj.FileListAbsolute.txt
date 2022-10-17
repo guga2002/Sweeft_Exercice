@@ -1,0 +1,7 @@
+C:\Users\aapkh\source\repos\Sweeft_test\Sweeft_test\bin\Debug\Sweeft_test.exe.config
+C:\Users\aapkh\source\repos\Sweeft_test\Sweeft_test\bin\Debug\Sweeft_test.exe
+C:\Users\aapkh\source\repos\Sweeft_test\Sweeft_test\bin\Debug\Sweeft_test.pdb
+C:\Users\aapkh\source\repos\Sweeft_test\Sweeft_test\obj\Debug\Sweeft_test.csproj.AssemblyReference.cache
+C:\Users\aapkh\source\repos\Sweeft_test\Sweeft_test\obj\Debug\Sweeft_test.csproj.CoreCompileInputs.cache
+C:\Users\aapkh\source\repos\Sweeft_test\Sweeft_test\obj\Debug\Sweeft_test.exe
+C:\Users\aapkh\source\repos\Sweeft_test\Sweeft_test\obj\Debug\Sweeft_test.pdb
